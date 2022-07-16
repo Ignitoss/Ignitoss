@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently practicing HTML, CSS, and JavaScript
 - 📫 LinkedIn profile: https://www.linkedin.com/in/christopher-kocher-869955b2
 
 <!---
